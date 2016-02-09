@@ -1,5 +1,5 @@
 # SkanetrafikenAutoAcceptWiFiTerms
-A small tool/guide for Ubuntu (but can probably be applied to most *nix flavours) to automatically accept terms of agreement when connected to Skånetrafiken WiFi and thereby automattically gain access to the onboard internet.
+A small tool/guide for Ubuntu (but can probably be applied to most *nix flavours) to automatically accept terms of agreement when connected to Skånetrafiken WiFi and thereby automatically gain access to the onboard internet.
 
 ## How to get started
 
